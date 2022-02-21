@@ -1,6 +1,8 @@
-# market_sub
+# Market_sub
 
-A new Flutter project.
+Program Cafe Sederhana Dengan Flutter.
+Submission Dicoding
+Rate: ✭ ✭ ✭ ✭
 
 ## Getting Started
 
